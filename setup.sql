@@ -4,7 +4,7 @@
 -- ============================================================
 -- Instrucțiuni:
 --   1. Creează baza de date:  CREATE DATABASE product_catalog_db;
---   2. Importă acest fișier:  mysql -u root -p sproduct_catalog_db < setup.sql
+--   2. Importă acest fișier:  mysql -u root -p product_catalog_db < setup.sql
 -- ============================================================
 
 SET NAMES utf8mb4;
