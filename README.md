@@ -1,4 +1,4 @@
-# API Catalog Produse — SoftPrim Technology
+# Product Catalog REST API
 
 API REST funcțional pentru un sistem de catalog produse și plasare comenzi, conectat la MySQL.
 
